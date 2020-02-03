@@ -1,0 +1,26 @@
+[14-Jan-2020 00:48:40 UTC] PHP Warning:  strpos(): Empty needle in /home3/owenwnet/public_html/wp-includes/functions.php on line 4360
+[14-Jan-2020 00:48:40 UTC] PHP Warning:  strpos(): Empty needle in /home3/owenwnet/public_html/wp-includes/functions.php on line 4360
+[14-Jan-2020 00:48:40 UTC] mojo_plugin_activated
+[17-Jan-2020 18:47:24 UTC] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home3/owenwnet/public_html/wp-includes/class-wp-image-editor-imagick.php on line 355
+[17-Jan-2020 18:47:55 UTC] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home3/owenwnet/public_html/wp-includes/class-wp-image-editor-imagick.php on line 355
+[17-Jan-2020 18:48:26 UTC] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home3/owenwnet/public_html/wp-includes/class-wp-image-editor-imagick.php on line 355
+[17-Jan-2020 18:48:46 UTC] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home3/owenwnet/public_html/wp-includes/class-wp-image-editor-imagick.php on line 355
+[17-Jan-2020 18:48:57 UTC] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home3/owenwnet/public_html/wp-includes/class-wp-image-editor-imagick.php on line 355
+[17-Jan-2020 18:49:18 UTC] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home3/owenwnet/public_html/wp-includes/class-wp-image-editor-imagick.php on line 355
+[17-Jan-2020 18:49:30 UTC] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home3/owenwnet/public_html/wp-includes/class-wp-image-editor-imagick.php on line 355
+[17-Jan-2020 18:49:51 UTC] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home3/owenwnet/public_html/wp-includes/class-wp-image-editor-imagick.php on line 355
+[17-Jan-2020 18:52:16 UTC] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home3/owenwnet/public_html/wp-includes/class-wp-image-editor-imagick.php on line 355
+[17-Jan-2020 18:52:47 UTC] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home3/owenwnet/public_html/wp-includes/class-wp-image-editor-imagick.php on line 355
+[17-Jan-2020 18:53:18 UTC] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home3/owenwnet/public_html/wp-includes/class-wp-image-editor-imagick.php on line 355
+[17-Jan-2020 18:53:50 UTC] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home3/owenwnet/public_html/wp-includes/class-wp-image-editor-imagick.php on line 355
+[17-Jan-2020 18:54:21 UTC] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home3/owenwnet/public_html/wp-includes/class-wp-image-editor-imagick.php on line 355
+[17-Jan-2020 18:54:54 UTC] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home3/owenwnet/public_html/wp-includes/class-wp-image-editor-imagick.php on line 355
+[17-Jan-2020 18:58:48 UTC] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home3/owenwnet/public_html/wp-includes/class-wp-image-editor-imagick.php on line 355
+[17-Jan-2020 18:59:19 UTC] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home3/owenwnet/public_html/wp-includes/class-wp-image-editor-imagick.php on line 355
+[17-Jan-2020 18:59:50 UTC] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home3/owenwnet/public_html/wp-includes/class-wp-image-editor-imagick.php on line 363
+[17-Jan-2020 19:07:54 UTC] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home3/owenwnet/public_html/wp-includes/class-wp-image-editor-imagick.php on line 363
+[17-Jan-2020 19:08:25 UTC] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home3/owenwnet/public_html/wp-includes/class-wp-image-editor-imagick.php on line 355
+[17-Jan-2020 19:08:56 UTC] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home3/owenwnet/public_html/wp-includes/class-wp-image-editor-imagick.php on line 355
+[17-Jan-2020 19:09:27 UTC] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home3/owenwnet/public_html/wp-includes/class-wp-image-editor-imagick.php on line 355
+[17-Jan-2020 19:10:33 UTC] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home3/owenwnet/public_html/wp-includes/class-wp-image-editor-imagick.php on line 355
+[17-Jan-2020 19:11:04 UTC] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home3/owenwnet/public_html/wp-includes/class-wp-image-editor-imagick.php on line 355
