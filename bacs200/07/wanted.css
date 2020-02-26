@@ -1,0 +1,51 @@
+{
+    border: dashed 1px blue;
+    padding: 10px;
+    margin: 50px;
+}
+
+body {
+    border: solid 3px black;
+    background-color: black;
+    text-align: center;
+        font-family: "Goudy Old Style", Helvetica;
+
+}
+
+header {
+    border: solid 3px yellow;
+    background-color: lightyellow;
+    margin: 80px;
+}
+
+footer {
+    border: solid 3px green;
+    background-color: lightgreen;
+}
+
+main {
+    border: solid 3px yellow;
+    background-color: white;
+    width: 80%;
+    margin: auto;
+}
+main h1{
+    color: blue;
+}
+main aside{
+    
+}
+h1 { 
+    font-family: "Goudy Old Style", Helvetica;
+    font-size: 65px;
+    padding-bottom: 20px;
+    
+    
+}
+h2{
+
+}
+li{
+    text-align: left;
+    list-style-position: inside;
+}
