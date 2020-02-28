@@ -5,47 +5,67 @@
 }
 
 body {
-    border: solid 3px black;
-    background-color: black;
+
+    background-color: #2A2A2A;
     text-align: center;
-        font-family: "Goudy Old Style", Helvetica;
+    font-family: "Goudy Old Style", Helvetica;
 
 }
 
 header {
-    border: solid 3px yellow;
-    background-color: lightyellow;
+    border: 3px yellow;
+    background-color: #dddd;
     margin: 80px;
+    border-radius: 20px;
+    box-shadow: 2px 2px 5px gray;
+
 }
 
 footer {
-    border: solid 3px green;
-    background-color: lightgreen;
+    border: solid 3px #2A2A2A;
+    background-color: #2A2A2A;
+}
+
+footer p a {
+    color: lightyellow;
+    font-size: 60%;
 }
 
 main {
-    border: solid 3px yellow;
-    background-color: white;
+    border-radius: 20px;
+    border: solid 3px black;
+    background-color: lightyellow;
     width: 80%;
     margin: auto;
 }
-main h1{
-    color: blue;
+
+main h1 {
+    color: black;
 }
-main aside{
-    
+
+main aside {
+    border: solid 3px black;
+    background-color: #dddd;
+    text-align: center;
+    margin: width %80;
+    float: right;
+    margin: 2%;
+    margin-left: auto
 }
-h1 { 
+
+header h1 {
     font-family: "Goudy Old Style", Helvetica;
     font-size: 65px;
-    padding-bottom: 20px;
-    
-    
-}
-h2{
+    margin: 0px;
+
 
 }
-li{
+
+.marker {
+    text-align: left;
+}
+
+li {
     text-align: left;
     list-style-position: inside;
 }
