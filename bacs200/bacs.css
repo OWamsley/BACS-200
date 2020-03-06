@@ -2,7 +2,8 @@ body{
     background-color: #d4d4d4;
     font-family: "Courier New", Courier, monospace;
     color: #3b3b3b;
-    line-height: 200%
+    line-height: 150%;
+    font-size: 15px;
 }
 a{
     color: #009973;
@@ -35,12 +36,17 @@ section{
     margin-bottom: 13%;
     margin-top: 5%;
     padding-left: 6%;
-    font-size: 20px;
+    font-size: 18px;
 }
 
 img{
     float: right;
     border: 1px solid #3b3b3b;
+}
+.left{
+    float: left;
+    padding: 25px;
+    margin-top: 70px;
 }
 main{
     padding-left: 10px;
@@ -60,15 +66,29 @@ footer{
 nav ul{
     list-style-type: none;
     display: inline;
-    line-height: 200%;
+    line-height: 200%;    
+    
 }
 nav ul li{
     background-color: white; 
     color: black;
-    box-shadow: 2px 2px 2px gray; 
+    box-shadow: 2px 2px 2px gray;
+    
+    
 }
 nav ul li a{
     color: black; 
     font-weight: bold;  
     
+}
+div{
+
+}
+.amusement{
+    float: left;
+    clear: left;
+    width: 500px
+}
+.project5{
+    border-spacing:
 }
