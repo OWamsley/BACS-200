@@ -2,6 +2,7 @@ body{
     background-color: #d4d4d4;
     font-family: "Courier New", Courier, monospace;
     color: #3b3b3b;
+    line-height: 200%
 }
 a{
     color: #009973;
@@ -55,4 +56,19 @@ footer{
     font-weight: bold;
     text-decoration: underline;
     clear: both; 
+}
+nav ul{
+    list-style-type: none;
+    display: inline;
+    line-height: 200%;
+}
+nav ul li{
+    background-color: white; 
+    color: black;
+    box-shadow: 2px 2px 2px gray; 
+}
+nav ul li a{
+    color: black; 
+    font-weight: bold;  
+    
 }
